@@ -116,14 +116,14 @@
       "create": "Создать панель библиотек",
       "error": "Панель библиотеки с таким названием уже существует",
       "folder": "Сохранять в папку",
-      "folder-description": "Library panel permissions are derived from the folder permissions",
-      "name": "Library panel name"
+      "folder-description": "Права доступа на панель библиотек наследуются от прав доступа папки",
+      "name": "Название панели библиотеки"
     }
   },
   "library-panels": {
     "save": {
-      "error": "Error saving library panel: \"{{errorMsg}}\"",
-      "success": "Library panel saved"
+      "error": "Ошибка сохранения панели библиотеки: \"{{errorMsg}}\"",
+      "success": "Панель библиотеки сохранена"
     }
   },
   "nav": {
@@ -161,11 +161,11 @@
     },
     "alerting-receivers": {
       "subtitle": "Выберите способ уведомления контактных точек при срабатывании оповещения",
-      "title": "Contact points"
+      "title": "Каналы оповещения"
     },
     "alerting-silences": {
       "subtitle": "Остановить уведомления от одного или нескольких правил оповещения",
-      "title": "Silences"
+      "title": "Отключения уведомлений"
     },
     "alerts-and-incidents": {
       "subtitle": "Оповещения и управление инцидентами",
@@ -194,7 +194,7 @@
       "title": "Создать правило оповещения"
     },
     "create-dashboard": {
-      "title": "Dashboard"
+      "title": "Панель мониторинга"
     },
     "create-folder": {
       "title": "Папка"
@@ -203,18 +203,18 @@
       "title": "Импорт"
     },
     "dashboards": {
-      "subtitle": "Create and manage dashboards to visualize your data",
-      "title": "Dashboards"
+      "subtitle": "Создайте и управляйте панелями мониторинга для визуализации ваших данных",
+      "title": "Панели мониторинга"
     },
     "datasources": {
       "subtitle": "Добавление и настройка источников данных",
       "title": "Источники данных"
     },
     "explore": {
-      "title": "Explore"
+      "title": "Обзор"
     },
     "global-orgs": {
-      "subtitle": "Isolated instances of Grafana running on the same server",
+      "subtitle": "Изолированные экземпляры системы, запущенные на том же сервере",
       "title": "Организации"
     },
     "global-users": {
@@ -223,7 +223,7 @@
       "titleBeforeTopnav": "Пользователи"
     },
     "help": {
-      "title": "Help"
+      "title": "Справка"
     },
     "help/community": "Сообщество",
     "help/documentation": "Документация",
@@ -233,33 +233,33 @@
       "title": "Главная"
     },
     "library-panels": {
-      "subtitle": "Reusable panels that can be added to multiple dashboards",
-      "title": "Library panels"
+      "subtitle": "Повторно используемые панели, которые могут быть добавлены в несколько панелей мониторинга",
+      "title": "Панели библиотек"
     },
     "live": {
-      "title": "Event streaming"
+      "title": "Поток событий"
     },
     "live-cloud": {
       "title": "Облако"
     },
     "live-pipeline": {
-      "title": "Pipeline"
+      "title": "Конвейер"
     },
     "live-status": {
       "title": "Статус"
     },
     "manage-dashboards": {
-      "title": "Browse"
+      "title": "Обзор"
     },
     "monitoring": {
-      "subtitle": "Monitoring and infrastructure apps",
+      "subtitle": "Приложения мониторинга и инфраструктуры",
       "title": "Мониторинг"
     },
     "new": {
       "title": "Новый"
     },
     "new-dashboard": {
-      "title": "New dashboard"
+      "title": "Создать панель мониторинга"
     },
     "new-folder": {
       "title": "Новая папка"
@@ -270,7 +270,7 @@
       "titleBeforeTopnav": "Настройки"
     },
     "playlists": {
-      "subtitle": "Groups of dashboards that are displayed in a sequence",
+      "subtitle": "Группы панелей мониторинга, отображаемые в последовательности",
       "title": "Списки воспроизведения"
     },
     "plugins": {
@@ -288,24 +288,24 @@
     },
     "profile/switch-org": "Сменить организацию",
     "public": {
-      "title": "Public dashboards"
+      "title": "Публичные панели мониторинга"
     },
     "scenes": {
-      "title": "Scenes"
+      "title": "Виды"
     },
     "search": {
       "placeholder": "Поиск Grafana",
       "placeholderCommandPalette": "Найти или перейти к…"
     },
     "search-dashboards": {
-      "title": "Search dashboards"
+      "title": "Поиск панелей мониторинга"
     },
     "server-settings": {
       "subtitle": "Просмотр настроек, определенных в конфигурации Grafana",
       "title": "Настройки"
     },
     "service-accounts": {
-      "subtitle": "Use service accounts to run automated workloads in Grafana",
+      "subtitle": "Использовать сервисные учетные записи для запуска автоматических работ в системе",
       "title": "Cлужебные учетные записи "
     },
     "sign-in": "Войти",
@@ -313,57 +313,57 @@
       "title": "Выйти"
     },
     "snapshots": {
-      "subtitle": "Interactive, publically available, point-in-time representations of dashboards",
+      "subtitle": "Интерактивные, общедоступные, актуальные представления панели мониторинга",
       "title": "Снимки"
     },
     "starred": {
-      "title": "Starred"
+      "title": "Избранное"
     },
     "starred-empty": {
-      "title": "Your starred dashboards will appear here"
+      "title": "Ваши избранные панели мониторинга появятся здесь"
     },
     "storage": {
       "subtitle": "Управление хранилищем файлов",
       "title": "Хранилище"
     },
     "support-bundles": {
-      "subtitle": "Download support bundles",
-      "title": "Support bundles"
+      "subtitle": "Скачать набор поддержки",
+      "title": "Наборы поддержки"
     },
     "teams": {
-      "subtitle": "Groups of users that have common dashboard and permission needs",
-      "title": "Teams"
+      "subtitle": "Группы пользователей, имеющие общие панели мониторинга и требования к правам доступа",
+      "title": "Команды"
     },
     "upgrading": {
-      "title": "Stats and license"
+      "title": "Статистика и лицензии"
     },
     "users": {
-      "subtitle": "Invite and assign roles to users",
+      "subtitle": "Пригласить и назначить роли пользователям",
       "title": "Пользователи"
     }
   },
   "navigation": {
     "kiosk": {
-      "tv-alert": "Press ESC to exit kiosk mode"
+      "tv-alert": "Нажмите ESC для выхода из режима киоска"
     }
   },
   "news": {
-    "title": "Latest from the blog"
+    "title": "Последнее из блога"
   },
   "notifications": {
-    "starred-dashboard": "Dashboard starred",
-    "unstarred-dashboard": "Dashboard unstarred"
+    "starred-dashboard": "Избранная панель мониторинга",
+    "unstarred-dashboard": "Панель мониторинга удалена из избранного"
   },
   "panel": {
     "header-menu": {
       "copy": "Копировать",
-      "create-library-panel": "Create library panel",
+      "create-library-panel": "Создать панель библиотеки",
       "duplicate": "Дублировать",
       "edit": "Редактировать",
-      "explore": "Explore",
+      "explore": "Исследовать",
       "get-help": "Получить помощь",
       "hide-legend": "Скрыть легенду",
-      "inspect": "Inspect",
+      "inspect": "Осмотреть",
       "inspect-data": "Данные",
       "inspect-json": "JSON панель",
       "more": "Больше...",
@@ -371,17 +371,17 @@
       "remove": "Удалить",
       "share": "Поделиться",
       "show-legend": "Показывать легенду",
-      "unlink-library-panel": "Unlink library panel",
+      "unlink-library-panel": "Отвязать панель библиотеки",
       "view": "Вид"
     }
   },
   "refresh-picker": {
     "aria-label": {
-      "choose-interval": "Auto refresh turned off. Choose refresh time interval",
-      "duration-selected": "Choose refresh time interval with current interval {{durationAriaLabel}} selected"
+      "choose-interval": "Автоматическое обновление отключено. Выберите интервал обновления",
+      "duration-selected": "Выберите интервал обновления с текущим выбранным интервалом {{durationAriaLabel}}"
     },
     "live-option": {
-      "aria-label": "Turn on live streaming",
+      "aria-label": "Включить трансляцию в реальном времени",
       "label": "Живой"
     },
     "off-option": {
@@ -407,34 +407,34 @@
     "embed": {
       "copy": "Копировать в буфер",
       "html": "Встроить HTML",
-      "html-description": "The HTML code below can be pasted and included in another web page. Unless anonymous access is enabled, the user viewing that page need to be signed into Grafana for the graph to load.",
-      "info": "Generate HTML for embedding an iframe with this panel.",
-      "time-range": "Current time range",
-      "time-range-description": "Transforms the current relative time range to an absolute time range"
+      "html-description": "Нижеприведенный HTML код может быть вставлен и включен в другую веб-страницу. Если не включен анонимный доступ, пользователь должен авторизоваться в системе для загрузки графа.",
+      "info": "Генерировать HTML для встраивания iframe с этой панелью.",
+      "time-range": "Текущий диапазон времени",
+      "time-range-description": "Преобразование текущего относительного диапазона по времени в абсолютный диапазон"
     },
     "export": {
       "cancel-button": "Отмена",
-      "info-text": "Export this dashboard.",
+      "info-text": "Экспортировать эту панель мониторинга.",
       "save-button": "Сохранить в файл",
-      "share-default-label": "Export with default values removed",
-      "share-externally-label": "Export for sharing externally",
+      "share-default-label": "Экспорт со значениями по умолчанию удалён",
+      "share-externally-label": "Экспортировать для внешнего распространения",
       "view-button": "Просмотр JSON"
     },
     "library": {
-      "info": "Create library panel."
+      "info": "Создать панель библиотеки."
     },
     "link": {
       "copy-link-button": "Копировать",
-      "info-text": "Create a direct link to this dashboard or panel, customized with the options below.",
+      "info-text": "Создайте прямую ссылку на эту панель или панель, настроенную с параметрами ниже.",
       "link-url": "Ссылка URL",
       "render-alert": "Плагин визуализации изображений не установлен",
-      "render-instructions": "To render a panel image, you must install the&nbsp;<1>Grafana image renderer plugin</1>. Please contact your Grafana administrator to install the plugin.",
-      "rendered-image": "Direct link rendered image",
-      "save-alert": "Dashboard is not saved",
-      "save-dashboard": "To render a panel image, you must save the dashboard first.",
-      "shorten-url": "Shorten URL",
-      "time-range-description": "Transforms the current relative time range to an absolute time range",
-      "time-range-label": "Lock time range"
+      "render-instructions": "Чтобы отобразить панель изображения, вы должны установить&nbsp;<1>Grafana image renderer plugin</1>. Пожалуйста, свяжитесь с техподдержкой, чтобы установить плагин.",
+      "rendered-image": "Изображение по прямой ссылке",
+      "save-alert": "Панель мониторинга не сохранена",
+      "save-dashboard": "Чтобы отобразить изображение панели, вы должны сначала сохранить эту панель мониторинга.",
+      "shorten-url": "Короткий URL",
+      "time-range-description": "Преобразование текущего относительного диапазона по времени в абсолютный диапазон",
+      "time-range-label": "Заблокировать диапазон"
     },
     "panel": {
       "title": "Поделиться панелью"
@@ -443,25 +443,25 @@
       "cancel-button": "Отмена",
       "copy-link-button": "Копировать",
       "delete-button": "Удалить снимок.",
-      "deleted-message": "The snapshot has been deleted. If you have already accessed it once, then it might take up to an hour before before it is removed from browser caches or CDN caches.",
-      "expire": "Expire",
+      "deleted-message": "Слепок был удален. Если вы уже обращались к нему один раз, то это может занять не более часа до удаления кэша браузера или CDN кэша.",
+      "expire": "Срок действия",
       "expire-day": "1 День",
       "expire-hour": "1 Час",
       "expire-never": "Никогда",
       "expire-week": "7 Дней",
-      "info-text-1": "A snapshot is an instant way to share an interactive dashboard publicly. When created, we strip sensitive data like queries (metric, template, and annotation) and panel links, leaving only the visible metric data and series names embedded in your dashboard.",
-      "info-text-2": "Keep in mind, your snapshot <1>can be viewed by anyone</1> that has the link and can access the URL. Share wisely.",
-      "local-button": "Local Snapshot",
-      "mistake-message": "Did you make a mistake? ",
+      "info-text-1": "Слепки — это мгновенный способ распространения интерактивной панели мониторинга. При создании мы удаляем чувствительные данные, такие как запросы (метрики, шаблоны и аннотации) и ссылки панелей, оставляя только видимые имена данных и серии, встроенные в вашу панель мониторинга.",
+      "info-text-2": "Имейте в виду, что ваш слепок <1>может быть просмотрен каждым</1>, кто имеет ссылку и может получить доступ к URL. Будьте аккуратны при распространении.",
+      "local-button": "Локальный слепок",
+      "mistake-message": "Вы ошиблись? ",
       "name": "Имя снимка",
       "timeout": "Таймаут (в секундах)",
-      "timeout-description": "You might need to configure the timeout value if it takes a long time to collect your dashboard metrics.",
+      "timeout-description": "Вам может потребоваться настроить таймаут, если получение метрик панели мониторинга занимает много времени.",
       "url-label": "URL-адрес снимка"
     },
     "tab-title": {
-      "embed": "Embed",
+      "embed": "Код для вставки",
       "export": "Экспорт",
-      "library-panel": "Library panel",
+      "library-panel": "Панель библиотеки",
       "link": "Ссылка",
       "snapshot": "Снимок"
     },
@@ -482,8 +482,8 @@
   },
   "shared-preferences": {
     "fields": {
-      "home-dashboard-label": "Home Dashboard",
-      "home-dashboard-placeholder": "Default dashboard",
+      "home-dashboard-label": "Домашняя панель мониторинга",
+      "home-dashboard-placeholder": "Панель мониторинга по умолчанию",
       "locale-label": "Язык",
       "locale-placeholder": "Выбрать язык",
       "theme-label": "Тема пользовательского интерфейса",
@@ -495,54 +495,54 @@
       "light-label": "Светлая тема",
       "system-label": "Система"
     },
-    "title": "Preferences"
+    "title": "Настройки"
   },
   "time-picker": {
     "absolute": {
-      "recent-title": "Recently used absolute ranges",
-      "title": "Absolute time range"
+      "recent-title": "Недавно использованные абсолютные диапазоны",
+      "title": "Абсолютный временной диапазон"
     },
     "calendar": {
-      "apply-button": "Apply time range",
+      "apply-button": "Применить временной диапазон",
       "cancel-button": "Отмена",
-      "select-time": "Select a time range"
+      "select-time": "Выберите временной диапазон"
     },
     "content": {
-      "empty-recent-list": "<0><0>It looks like you haven&apos;t used this time picker before. As soon as you enter some time intervals, recently used intervals will appear here.</0></0><1><0>Read the documentation</0><1> to find out more about how to enter custom time ranges.</1></1>",
-      "filter-placeholder": "Search quick ranges"
+      "empty-recent-list": "<0><0>Похоже вы не использовали инструмент выбора временного диапазона ранее. Как только вы вводите интервалы времени, здесь появятся недавно использованные интервалы. </0></0><1><0>Прочтите документацию</0><1><1>, чтобы узнать больше о том, как вводить пользовательские диапазоны времени.</1></1>",
+      "filter-placeholder": "Быстрый поиск диапазонов"
     },
     "footer": {
-      "change-settings-button": "Change time settings",
-      "fiscal-year-option": "Fiscal year",
-      "fiscal-year-start": "Fiscal year start month",
+      "change-settings-button": "Изменение настроек времени",
+      "fiscal-year-option": "Финансовый год",
+      "fiscal-year-start": "Месяц начала финансового года",
       "time-zone-option": "Часовой пояс",
       "time-zone-selection": "Выбор часового пояса"
     },
     "range-content": {
-      "apply-button": "Apply time range",
-      "default-error": "Please enter a past date or \"now\"",
-      "fiscal-year": "Fiscal year",
+      "apply-button": "Применить временной диапазон",
+      "default-error": "Пожалуйста, введите последнюю дату или \"now\" для текущего времени",
+      "fiscal-year": "Финансовый год",
       "from-input": "От",
       "range-error": "\"От\" не может быть позже \"До\"",
       "to-input": "До"
     },
     "range-picker": {
-      "backwards-time-aria-label": "Move time range backwards",
-      "current-time-selected": "Time range selected: {{currentTimeRange}}",
-      "forwards-time-aria-label": "Move time range forwards",
+      "backwards-time-aria-label": "Переместить диапазон времени назад",
+      "current-time-selected": "Выбран диапазон времени: {{currentTimeRange}}",
+      "forwards-time-aria-label": "Переместить диапазон времени вперёд",
       "to": "до",
-      "zoom-out-button": "Zoom out time range",
-      "zoom-out-tooltip": "Time range zoom out <1></1> CTRL+Z"
+      "zoom-out-button": "Уменьшить масштаб диапазона времени",
+      "zoom-out-tooltip": "Уменьшение масштаба диапазона времени <1></1> CTRL+Z"
     },
     "time-range": {
-      "aria-role": "Time range selection",
-      "default-title": "Time ranges",
-      "example-title": "Example time ranges",
-      "specify": "Specify time range <1></1>"
+      "aria-role": "Выбор диапазона времени",
+      "default-title": "Диапазоны времени",
+      "example-title": "Пример временных диапазонов",
+      "specify": "Укажите диапазон времени <1></1>"
     },
     "zone": {
-      "select-aria-label": "Time zone picker",
-      "select-search-input": "Type to search (country, city, abbreviation)"
+      "select-aria-label": "Выбор часовой зоны",
+      "select-search-input": "Начните ввод для поиска (страна, город, аббревиатура)"
     }
   },
   "user-orgs": {
@@ -554,7 +554,7 @@
   },
   "user-profile": {
     "fields": {
-      "email-error": "Email is required",
+      "email-error": "Email обязателен",
       "email-label": "Email",
       "name-error": "Имя обязательно",
       "name-label": "Имя",
@@ -565,8 +565,8 @@
     "browser-column": "Браузер и ОС",
     "created-at-column": "Вход выполнен",
     "ip-column": "IP адрес",
-    "revoke": "Revoke user session",
-    "seen-at-column": "Last seen"
+    "revoke": "Отменить сеанс пользователя",
+    "seen-at-column": "Последний раз заходил"
   },
   "user-sessions": {
     "loading": "Загрузка сессий..."
