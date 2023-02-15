@@ -66,7 +66,7 @@
       "dataframe-label": "Фрейм данных JSON (из Запроса)",
       "panel-data-description": "Необработанная модель, переданная для визуализации панели",
       "panel-data-label": "Панель данных",
-      "panel-json-description": "The model saved in the dashboard JSON that configures how everything works.",
+      "panel-json-description": "Модель панели мониторинга, сохраненная в формате JSON, которая настраивает, как все работает.",
       "panel-json-label": "JSON панель",
       "select-source": "Выберите источник",
       "unknown": "Неизвестный объект: {{show}}"
@@ -113,8 +113,8 @@
   "library-panel": {
     "add-modal": {
       "cancel": "Отмена",
-      "create": "Create library panel",
-      "error": "Library panel with this name already exists",
+      "create": "Создать панель библиотек",
+      "error": "Панель библиотеки с таким названием уже существует",
       "folder": "Сохранять в папку",
       "folder-description": "Library panel permissions are derived from the folder permissions",
       "name": "Library panel name"
