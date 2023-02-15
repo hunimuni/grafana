@@ -7,37 +7,37 @@
   },
   "command-palette": {
     "action": {
-      "change-theme": "Change theme...",
-      "dark-theme": "Dark",
-      "light-theme": "Light",
-      "search": "Search"
+      "change-theme": "Сменить тему ...",
+      "dark-theme": "Темная тема",
+      "light-theme": "Светлая тема",
+      "search": "Поиск"
     },
     "search-box": {
       "placeholder": "Search or jump to..."
     },
     "section": {
-      "actions": "Actions",
+      "actions": "Действия",
       "dashboard-search-results": "Dashboards",
-      "pages": "Pages",
+      "pages": "Страницы",
       "preferences": "Preferences",
       "recent-dashboards": "Recent dashboards"
     }
   },
   "common": {
     "locale": {
-      "default": "Default"
+      "default": "По умолчанию"
     },
-    "save": "Save"
+    "save": "Сохранить"
   },
   "dashboard": {
     "inspect": {
-      "actions-tab": "Actions",
-      "data-tab": "Data",
-      "error-tab": "Error",
+      "actions-tab": "Действия",
+      "data-tab": "Данные",
+      "error-tab": "Ошибка",
       "json-tab": "JSON",
-      "meta-tab": "Meta Data",
-      "query-tab": "Query",
-      "stats-tab": "Stats",
+      "meta-tab": "Метаданные",
+      "query-tab": "Запрос",
+      "stats-tab": "Статистики",
       "subtitle": "{{queryCount}} queries with total query time of {{formatted}}",
       "title": "Inspect: {{panelTitle}}"
     },
@@ -45,10 +45,10 @@
       "data-options": "Data options",
       "dataframe-aria-label": "Select dataframe",
       "dataframe-label": "Show data frame",
-      "download-csv": "Download CSV",
+      "download-csv": "Скачать CSV-файл",
       "download-excel-description": "Adds header to CSV for use with Excel",
-      "download-excel-label": "Download for Excel",
-      "download-logs": "Download logs",
+      "download-excel-label": "Скачать для Excel",
+      "download-logs": "Скачать логи",
       "download-service": "Download service graph",
       "download-traces": "Download traces",
       "excel-header": "Excel header",
