@@ -1,5 +1,5 @@
 {
-  "_comment": "Do not manually edit this file, or update these source phrases in Crowdin. The source of truth for English strings are in the code source",
+  "_comment": "Не редактируйте этот файл вручную и не обновляйте исходные фразы в Crowdin. Источник правды для английских строк находится в исходном коде.",
   "clipboard-button": {
     "inline-toast": {
       "success": "Скопировано"
@@ -8,8 +8,8 @@
   "command-palette": {
     "action": {
       "change-theme": "Сменить тему ...",
-      "dark-theme": "Темная тема",
-      "light-theme": "Светлая тема",
+      "dark-theme": "Тёмная",
+      "light-theme": "Светлая",
       "search": "Поиск"
     },
     "search-box": {
@@ -17,10 +17,10 @@
     },
     "section": {
       "actions": "Действия",
-      "dashboard-search-results": "Рабочие экраны",
+      "dashboard-search-results": "Панель мониторинга",
       "pages": "Страницы",
-      "preferences": "Preferences",
-      "recent-dashboards": "Recent dashboards"
+      "preferences": "Предпочтения",
+      "recent-dashboards": "Недавние панели мониторинга"
     }
   },
   "common": {
@@ -38,34 +38,34 @@
       "meta-tab": "Метаданные",
       "query-tab": "Запрос",
       "stats-tab": "Статистики",
-      "subtitle": "{{queryCount}} queries with total query time of {{formatted}}",
-      "title": "Inspect: {{panelTitle}}"
+      "subtitle": "{{queryCount}} запросов с общим временем выполнения запроса {{formatted}}",
+      "title": "Проверка: {{panelTitle}}"
     },
     "inspect-data": {
-      "data-options": "Data options",
-      "dataframe-aria-label": "Select dataframe",
-      "dataframe-label": "Show data frame",
+      "data-options": "Настройки данных",
+      "dataframe-aria-label": "Выберите фрейм данных",
+      "dataframe-label": "Показать фрейм данных",
       "download-csv": "Скачать CSV-файл",
       "download-excel-description": "Добавить заголовок в CSV для использования с Excel",
       "download-excel-label": "Скачать для Excel",
       "download-logs": "Скачать логи",
-      "download-service": "Download service graph",
-      "download-traces": "Download traces",
+      "download-service": "Скачать график обслуживания",
+      "download-traces": "Следы загрузок",
       "excel-header": "Заголовок Excel",
       "formatted": "Форматированные данные",
-      "formatted-data-description": "Table data is formatted with options defined in the Field and Override tabs.",
+      "formatted-data-description": "Данные таблицы форматируются с помощью параметров, определенных на вкладках \"Поле\" и \"Переопределение\".",
       "formatted-data-label": "Форматированные данные",
       "panel-transforms": "Преобразование панели",
-      "series-to-columns": "Series joined by time",
-      "transformation": "Series joined by time",
-      "transformations-description": "Table data is displayed with transformations defined in the panel Transform tab.",
-      "transformations-label": "Apply panel transformations"
+      "series-to-columns": "Серии, объединенные по времени",
+      "transformation": "Серии, объединенные по времени",
+      "transformations-description": "Данные таблицы отображаются с преобразованиями, определенными на вкладке Transform.",
+      "transformations-label": "Применить преобразования панели"
     },
     "inspect-json": {
-      "dataframe-description": "Raw data without transformations and field config applied. ",
-      "dataframe-label": "DataFrame JSON (from Query)",
-      "panel-data-description": "The raw model passed to the panel visualization",
-      "panel-data-label": "Данные панели",
+      "dataframe-description": "Необработанные данные без применения преобразований и конфигурации полей.",
+      "dataframe-label": "Фрейм данных JSON (из Запроса)",
+      "panel-data-description": "Необработанная модель, переданная для визуализации панели",
+      "panel-data-label": "Панель данных",
       "panel-json-description": "The model saved in the dashboard JSON that configures how everything works.",
       "panel-json-label": "JSON панель",
       "select-source": "Выберите источник",
@@ -75,27 +75,27 @@
       "no-inspector": "Инспектор метаданных не найден"
     },
     "inspect-stats": {
-      "data-title": "Источник данных статистики",
-      "processing-time": "Data processing time",
-      "queries": "Number of queries",
-      "request-time": "Total request time",
-      "rows": "Total number rows",
-      "table-title": "Статистики"
+      "data-title": "Статистика источника данных",
+      "processing-time": "Время обработки данных",
+      "queries": "Количество запросов",
+      "request-time": "Общее время запроса",
+      "rows": "Общее количество строк",
+      "table-title": "Статистика"
     },
     "toolbar": {
       "add-panel": "Добавить панель",
-      "comments-show": "Показывать комментарии к панели",
-      "mark-favorite": "Mark as favorite",
-      "open-original": "Открыть исходную панель",
-      "playlist-next": "Перейти к следующей панели",
-      "playlist-previous": "Go to previous dashboard",
+      "comments-show": "Показать комментарии к панели мониторинга",
+      "mark-favorite": "Отметить как избранное",
+      "open-original": "Открыть исходную панель мониторинга",
+      "playlist-next": "Перейти к следующей панели мониторинга",
+      "playlist-previous": "Вернуться к предыдущей панели мониторинга",
       "playlist-stop": "Остановить плейлист",
-      "refresh": "Обновить панель",
-      "save": "Сохранить панель",
-      "settings": "Настройки панели",
-      "share": "Share dashboard or panel",
-      "tv-button": "Cycle view mode",
-      "unmark-favorite": "Unmark as favorite"
+      "refresh": "Обновить панель мониторинга",
+      "save": "Сохранить панель мониторинга",
+      "settings": "Настройки панели мониторинга",
+      "share": "Поделиться панелью мониторинга или панелью данных",
+      "tv-button": "Циклический режим просмотра",
+      "unmark-favorite": "Убрать из избранного"
     }
   },
   "datasource-onboarding": {
@@ -103,9 +103,9 @@
     "explanation": "Для визуализации данных необходимо сначала подключить их.",
     "new-dashboard": "Новая панель мониторинга",
     "preferred": "Подключите предпочтительный источник данных:",
-    "sampleData": "Или настройте новую панель с демо-данными",
+    "sampleData": "Или настройте новую панель мониторинга с демонстрационными данными",
     "viewAll": "Показать все",
-    "welcome": "Welcome to Grafana dashboards!"
+    "welcome": "Добро пожаловать в панели мониторинга Grafana!"
   },
   "folder-picker": {
     "loading": "Загрузка папок…"
@@ -128,25 +128,25 @@
   },
   "nav": {
     "admin": {
-      "subtitle": "Manage server-wide settings and access to resources such as organizations, users, and licenses",
+      "subtitle": "Управление параметрами всего сервера и доступом к ресурсам, таким как организации, пользователи и лицензии",
       "title": "Администратор сервера"
     },
     "alerting": {
-      "subtitle": "Learn about problems in your systems moments after they occur",
+      "subtitle": "Узнавайте о проблемах в ваших системах сразу после их возникновения",
       "title": "Оповещение"
     },
     "alerting-admin": {
       "title": "Админ"
     },
     "alerting-am-routes": {
-      "subtitle": "Determine how alerts are routed to contact points",
-      "title": "Notification policies"
+      "subtitle": "Определите, как оповещения направляются в контактные точки",
+      "title": "Политики уведомлений"
     },
     "alerting-channels": {
-      "title": "Notification channels"
+      "title": "Каналы уведомлений"
     },
     "alerting-groups": {
-      "subtitle": "See grouped alerts from an Alertmanager instance",
+      "subtitle": "Просмотр сгруппированных оповещений из экземпляра Alertmanager",
       "title": "Группы"
     },
     "alerting-home": {
@@ -156,7 +156,7 @@
       "title": "Оповещение (устаревшее)"
     },
     "alerting-list": {
-      "subtitle": "Rules that determine whether an alert will fire",
+      "subtitle": "Правила, определяющие, будет ли подан сигнал тревоги",
       "title": "Правила оповещения"
     },
     "alerting-receivers": {
