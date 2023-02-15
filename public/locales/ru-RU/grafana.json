@@ -160,7 +160,7 @@
       "title": "Правила оповещения"
     },
     "alerting-receivers": {
-      "subtitle": "Choose how to notify your contact points when an alert instance fires",
+      "subtitle": "Выберите способ уведомления контактных точек при срабатывании оповещения",
       "title": "Contact points"
     },
     "alerting-silences": {
