@@ -2,7 +2,7 @@
   "_comment": "Do not manually edit this file, or update these source phrases in Crowdin. The source of truth for English strings are in the code source",
   "clipboard-button": {
     "inline-toast": {
-      "success": "Copied"
+      "success": "Скопировано"
     }
   },
   "command-palette": {
@@ -46,15 +46,15 @@
       "dataframe-aria-label": "Select dataframe",
       "dataframe-label": "Show data frame",
       "download-csv": "Скачать CSV-файл",
-      "download-excel-description": "Adds header to CSV for use with Excel",
+      "download-excel-description": "Добавить заголовок в CSV для использования с Excel",
       "download-excel-label": "Скачать для Excel",
       "download-logs": "Скачать логи",
       "download-service": "Download service graph",
       "download-traces": "Download traces",
-      "excel-header": "Excel header",
-      "formatted": "Formatted data",
+      "excel-header": "Заголовок Excel",
+      "formatted": "Форматированные данные",
       "formatted-data-description": "Table data is formatted with options defined in the Field and Override tabs.",
-      "formatted-data-label": "Formatted data",
+      "formatted-data-label": "Форматированные данные",
       "panel-transforms": "Panel transforms",
       "series-to-columns": "Series joined by time",
       "transformation": "Series joined by time",
@@ -65,57 +65,57 @@
       "dataframe-description": "Raw data without transformations and field config applied. ",
       "dataframe-label": "DataFrame JSON (from Query)",
       "panel-data-description": "The raw model passed to the panel visualization",
-      "panel-data-label": "Panel data",
+      "panel-data-label": "Данные панели",
       "panel-json-description": "The model saved in the dashboard JSON that configures how everything works.",
-      "panel-json-label": "Panel JSON",
-      "select-source": "Select source",
-      "unknown": "Unknown Object: {{show}}"
+      "panel-json-label": "JSON панель",
+      "select-source": "Выберите источник",
+      "unknown": "Неизвестный объект: {{show}}"
     },
     "inspect-meta": {
-      "no-inspector": "No Metadata Inspector"
+      "no-inspector": "Инспектор метаданных не найден"
     },
     "inspect-stats": {
-      "data-title": "Data source stats",
+      "data-title": "Источник данных статистики",
       "processing-time": "Data processing time",
       "queries": "Number of queries",
       "request-time": "Total request time",
       "rows": "Total number rows",
-      "table-title": "Stats"
+      "table-title": "Статистики"
     },
     "toolbar": {
-      "add-panel": "Add panel",
-      "comments-show": "Show dashboard comments",
+      "add-panel": "Добавить панель",
+      "comments-show": "Показывать комментарии к панели",
       "mark-favorite": "Mark as favorite",
-      "open-original": "Open original dashboard",
-      "playlist-next": "Go to next dashboard",
+      "open-original": "Открыть исходную панель",
+      "playlist-next": "Перейти к следующей панели",
       "playlist-previous": "Go to previous dashboard",
-      "playlist-stop": "Stop playlist",
-      "refresh": "Refresh dashboard",
-      "save": "Save dashboard",
-      "settings": "Dashboard settings",
+      "playlist-stop": "Остановить плейлист",
+      "refresh": "Обновить панель",
+      "save": "Сохранить панель",
+      "settings": "Настройки панели",
       "share": "Share dashboard or panel",
       "tv-button": "Cycle view mode",
       "unmark-favorite": "Unmark as favorite"
     }
   },
   "datasource-onboarding": {
-    "contact-admin": "Please contact your administrator to configure data sources.",
-    "explanation": "To visualize your data, you'll need to connect it first.",
-    "new-dashboard": "New dashboard",
-    "preferred": "Connect your preferred data source:",
-    "sampleData": "Or set up a new dashboard with sample data",
-    "viewAll": "View all",
+    "contact-admin": "Пожалуйста, обратитесь к администратору для настройки источников данных.",
+    "explanation": "Для визуализации данных необходимо сначала подключить их.",
+    "new-dashboard": "Новая панель мониторинга",
+    "preferred": "Подключите предпочтительный источник данных:",
+    "sampleData": "Или настройте новую панель с демо-данными",
+    "viewAll": "Показать все",
     "welcome": "Welcome to Grafana dashboards!"
   },
   "folder-picker": {
-    "loading": "Loading folders..."
+    "loading": "Загрузка папок…"
   },
   "library-panel": {
     "add-modal": {
-      "cancel": "Cancel",
+      "cancel": "Отмена",
       "create": "Create library panel",
       "error": "Library panel with this name already exists",
-      "folder": "Save in folder",
+      "folder": "Сохранять в папку",
       "folder-description": "Library panel permissions are derived from the folder permissions",
       "name": "Library panel name"
     }
@@ -129,14 +129,14 @@
   "nav": {
     "admin": {
       "subtitle": "Manage server-wide settings and access to resources such as organizations, users, and licenses",
-      "title": "Server admin"
+      "title": "Администратор сервера"
     },
     "alerting": {
       "subtitle": "Learn about problems in your systems moments after they occur",
-      "title": "Alerting"
+      "title": "Оповещение"
     },
     "alerting-admin": {
-      "title": "Admin"
+      "title": "Админ"
     },
     "alerting-am-routes": {
       "subtitle": "Determine how alerts are routed to contact points",
@@ -147,80 +147,80 @@
     },
     "alerting-groups": {
       "subtitle": "See grouped alerts from an Alertmanager instance",
-      "title": "Groups"
+      "title": "Группы"
     },
     "alerting-home": {
-      "title": "Home"
+      "title": "Главная"
     },
     "alerting-legacy": {
-      "title": "Alerting (legacy)"
+      "title": "Оповещение (устаревшее)"
     },
     "alerting-list": {
       "subtitle": "Rules that determine whether an alert will fire",
-      "title": "Alert rules"
+      "title": "Правила оповещения"
     },
     "alerting-receivers": {
       "subtitle": "Choose how to notify your contact points when an alert instance fires",
       "title": "Contact points"
     },
     "alerting-silences": {
-      "subtitle": "Stop notifications from one or more alerting rules",
+      "subtitle": "Остановить уведомления от одного или нескольких правил оповещения",
       "title": "Silences"
     },
     "alerts-and-incidents": {
-      "subtitle": "Alerting and incident management apps",
-      "title": "Alerts & incidents"
+      "subtitle": "Оповещения и управление инцидентами",
+      "title": "Оповещения и инциденты"
     },
     "api-keys": {
-      "subtitle": "Manage and create API keys that are used to interact with Grafana HTTP APIs",
-      "title": "API keys"
+      "subtitle": "Управление и создание ключей API, используемых для взаимодействия с Grafana HTTP API",
+      "title": "Ключи API"
     },
     "apps": {
-      "subtitle": "App plugins that extend the Grafana experience",
-      "title": "Apps"
+      "subtitle": "Плагины приложений, расширяющие опыт работы в Grafana",
+      "title": "Приложения"
     },
     "config": {
-      "title": "Administration",
-      "titleBeforeTopnav": "Configuration"
+      "title": "Администрирование",
+      "titleBeforeTopnav": "Конфигурация"
     },
     "correlations": {
-      "subtitle": "Add and configure correlations",
-      "title": "Correlations"
+      "subtitle": "Добавление и настройка корреляций",
+      "title": "Корреляции"
     },
     "create": {
-      "title": "Create"
+      "title": "Создать"
     },
     "create-alert": {
-      "title": "Create alert rule"
+      "title": "Создать правило оповещения"
     },
     "create-dashboard": {
       "title": "Dashboard"
     },
     "create-folder": {
-      "title": "Folder"
+      "title": "Папка"
     },
     "create-import": {
-      "title": "Import"
+      "title": "Импорт"
     },
     "dashboards": {
       "subtitle": "Create and manage dashboards to visualize your data",
       "title": "Dashboards"
     },
     "datasources": {
-      "subtitle": "Add and configure data sources",
-      "title": "Data sources"
+      "subtitle": "Добавление и настройка источников данных",
+      "title": "Источники данных"
     },
     "explore": {
       "title": "Explore"
     },
     "global-orgs": {
       "subtitle": "Isolated instances of Grafana running on the same server",
-      "title": "Organizations"
+      "title": "Организации"
     },
     "global-users": {
-      "subtitle": "Manage users in Grafana",
-      "title": "Users",
-      "titleBeforeTopnav": "Users"
+      "subtitle": "Управление пользователями в Grafana",
+      "title": "Пользователи",
+      "titleBeforeTopnav": "Пользователи"
     },
     "help": {
       "title": "Help"
