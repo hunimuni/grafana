@@ -1,3 +1,6 @@
+Форк репозитория Grafana. Добавлен русская локаль через Crowdin.
+Перевод не полный. Потихоньку добавляю новые фразы для перевода.
+
 ![Grafana](docs/logo-horizontal.png)
 
 The open-source platform for monitoring and observability
