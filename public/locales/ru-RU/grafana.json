@@ -396,7 +396,7 @@
     "dashboard-actions": {
       "import": "Импорт",
       "new": "Новый",
-      "new-dashboard": "Новый Рабочий экран",
+      "new-dashboard": "Новая панель мониторинга",
       "new-folder": "Новая папка"
     }
   },
